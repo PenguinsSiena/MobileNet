@@ -1,0 +1,47 @@
+  body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:10px 10px 10px rgb(29, 43, 63);
+  }
+  .heading_div
+  {
+    padding: 10px;
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px rgb(29, 43, 63);
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ .copy_right_footer{
+   width: 100%;
+   bottom: 0px;
+   background-color: rgb(0, 128, 255);
+   text-align: center;
+   position: fixed;
+   font-size: 20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-shadow: 1px 1px 1px rgb(14, 14, 14);
+   color: rgb(255, 255, 255);
+   line-height: 25px;
+ }
+ canvas {
+   background-color: white;
+   border: 6px double rgb(83, 83, 83);
+   border-radius: 20px;
+   margin-top: 170px;
+   box-shadow: 10px 10px 10px rgb(29, 43, 63);
+ }
